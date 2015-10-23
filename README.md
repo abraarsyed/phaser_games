@@ -1,2 +1,3 @@
-# car_racing_game
-2d Car Racing game for firefox OS
+# Phaser Games
+
+Build simple games such as ping-pong or car racing using Phaser.js
